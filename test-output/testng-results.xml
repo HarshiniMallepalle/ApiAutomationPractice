@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4871" started-at="2023-04-23T09:10:46 EDT" finished-at="2023-04-23T09:10:51 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4871" started-at="2023-04-23T09:10:46 EDT" finished-at="2023-04-23T09:10:51 EDT">
+      <class name="com.qa.api.ApiAutomationP">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.qa.api.ApiAutomationP@2f943d71]" name="login" duration-ms="4832" started-at="2023-04-23T09:10:46 EDT" finished-at="2023-04-23T09:10:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.qa.api.ApiAutomationP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
